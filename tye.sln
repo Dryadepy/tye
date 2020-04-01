@@ -19,7 +19,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Tye.Hosting.Runti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Tye.Core", "src\Microsoft.Tye.Core\Microsoft.Tye.Core.csproj", "{D0359C69-6EA9-4B03-9455-90E8E04F1CB0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTests", "test\UnitTests\UnitTests.csproj", "{2233F4A8-10F9-40A6-BFD3-8D0C37F8359A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Microsoft.Tye.UnitTests", "test\UnitTests\Microsoft.Tye.UnitTests.csproj", "{2233F4A8-10F9-40A6-BFD3-8D0C37F8359A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.Tye.Extensions", "src\Microsoft.Tye.Extensions\Microsoft.Tye.Extensions.csproj", "{AAF0CE0B-E53A-4E10-AA82-BF7200AB2B0C}"
 EndProject
